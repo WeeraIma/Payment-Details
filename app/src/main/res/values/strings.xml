@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Payment Details</string>
+    <string name="txt1">Book Amount</string>
+    <string name="txt2">Card Number</string>
+    <string name="txt3">CVV Code</string>
+    <string name="txt4">Expiration Date</string>
+    <string name="btn1">CANCEL</string>
+    <string name="btn2">CHANGE</string>
+    <string name="btn3">PAY NOW</string>
+
+</resources>
